@@ -1,1 +1,1 @@
-# kodu yazdıktıan mx kaydı eklenmesi lazım
+# kodu yazdıktıan mx kaydı eklemeyi unutma
